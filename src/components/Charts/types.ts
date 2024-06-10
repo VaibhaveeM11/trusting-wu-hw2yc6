@@ -1,0 +1,3 @@
+interface ChartProps {
+  data: any[];
+}
